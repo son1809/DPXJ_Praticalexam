@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Patients>
+    <Patient>
+        <Id>1</Id>
+        <Name>Nguyen Van A</Name>
+        <Weight>60</Weight>
+        <Height>1.7</Height>
+        <BloodType>A</BloodType>
+        <Gender>true</Gender>
+        <BirthDate>2000-01-01</BirthDate>
+    </Patient>
+    <Patient>
+        <Id>2</Id>
+        <Name>Tran Thi B</Name>
+        <Weight>50</Weight>
+        <Height>1.6</Height>
+        <BloodType>B</BloodType>
+        <Gender>false</Gender>
+        <BirthDate>1999-05-10</BirthDate>
+    </Patient>
+    <Patient>
+        <Id>3</Id>
+        <Name>Le Van C</Name>
+        <Weight>70</Weight>
+        <Height>1.75</Height>
+        <BloodType>O</BloodType>
+        <Gender>true</Gender>
+        <BirthDate>2001-03-15</BirthDate>
+    </Patient>
+</Patients>

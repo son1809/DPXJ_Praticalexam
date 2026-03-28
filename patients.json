@@ -1,0 +1,1 @@
+[{"id":1,"name":"Nguyen Van A","weight":60,"height":1.7,"bloodType":"A","gender":true,"birthDate":[2000,1,1]},{"id":2,"name":"Tran Thi B","weight":50,"height":1.6,"bloodType":"B","gender":false,"birthDate":[1999,5,10]},{"id":3,"name":"Le Van C","weight":70,"height":1.75,"bloodType":"O","gender":true,"birthDate":[2001,3,15]}]
